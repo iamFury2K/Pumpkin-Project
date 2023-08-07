@@ -1,10 +1,5 @@
 # Pumpkin-Project
 Explore ML algorithms for pumpkin seed classification. Compare Logistic Regression, MLP, SVM, Random Forest, XGBoost, and KNN. Utilize k-fold cross-validation. Dataset and code provided for research and learning. Enhance agricultural analysis and seed quality assessment. Open for collaboration and contributions.
-![knn](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/50b7a5fa-eea6-47c3-8510-260c4335b187)
-![lr](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/5e04b7d0-f4df-4172-a327-a28d413363e1)
-![rf](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/d70edc51-4e5a-44cd-b68d-0622a45ff348)
-![svm](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/4f9675b7-9531-44f8-b9ba-980fbbba3098)
-![xgboost](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/41816931-92d1-40bd-b55e-5c641d0e5177)
 
 Project Name: Seed Classification using Machine Learning
 
@@ -28,3 +23,8 @@ By open-sourcing this project and providing the dataset, we aim to encourage fur
 Note: The dataset and code are made publicly accessible for educational and research purposes, and we welcome contributions from the community to improve and extend the functionality of this project.
 
 Keywords: Seed Classification, Machine Learning, Agricultural Research, Pumpkin Seed Varieties, Morphological Features, Logistic Regression, Multilayer Perceptrons, Support Vector Machine, Random Forest, XGBoost, k-Nearest Neighbor, k-fold Cross-Validation.
+![knn](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/50b7a5fa-eea6-47c3-8510-260c4335b187)
+![lr](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/5e04b7d0-f4df-4172-a327-a28d413363e1)
+![rf](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/d70edc51-4e5a-44cd-b68d-0622a45ff348)
+![svm](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/4f9675b7-9531-44f8-b9ba-980fbbba3098)
+![xgboost](https://github.com/iamFury2K/Pumpkin-Project/assets/73428754/41816931-92d1-40bd-b55e-5c641d0e5177)
